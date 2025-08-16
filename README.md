@@ -1,5 +1,4 @@
 # Amazon-Prime-Video-Analytics
-# Amazon Prime Video Analytics Dashboard
 
 ## 📌 Project Overview
 This project involves designing and developing an **interactive Power BI dashboard** to analyze streaming data from Amazon Prime Video.  
